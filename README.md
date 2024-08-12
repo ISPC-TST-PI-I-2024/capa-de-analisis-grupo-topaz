@@ -4,11 +4,13 @@
 
 ![alt text](https://github.com/ISPC-TST-PI-I-2024/capa-de-percepcion-grupo-topaz/blob/main/Recursos/Visuales/image1.png)  
 
-**Profesor:** C.GONZALO VERA
-
-**Integrantes:**  
-Roldan patricio Leandro
+## **Profesor: C.GONZALO VERA**  
 ---
+
+**Integrantes:**    
+
+Roldan patricio Leandro
+
 
 
 
@@ -19,7 +21,7 @@ Patricio Leandro Roldan - [GitHub pleroldan](https://github.com/pleroldan)
 ---
 
 ## Datos del Proyecto
-Tema: Monitoreo y control
+Tema: Monitoreo y control   
 Alerta Temprana ante Incendios Forestales
 
 ---
